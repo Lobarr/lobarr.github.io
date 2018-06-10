@@ -1,0 +1,35 @@
+.info-container {
+    margin-top: 2em;
+    padding: 2em;
+    color: white;
+    width: 95%;
+    .info {
+        background-color: #9DBEBB;
+        padding: 4em;
+        h1 {
+            font-size: 3em;
+            margin-bottom: 0;
+        }
+        h2 {
+            margin-top: 0;
+            margin-bottom: 2em;
+            color: #5E747F;
+        }
+        #resume {
+            margin-top: 3em;
+            display: flex;
+            justify-content: center;
+            a {
+                border: 2px solid white;
+                border-radius: 5%;
+                padding: 1em;
+                color: white;
+                text-decoration: none;
+                &:hover {
+                    background-color: white;
+                    color: #5E747F;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+.skills-container {
+  margin-top: 2em;
+  padding: 2em;
+  color: #9DBEBB;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; }
+  .skills-container i {
+    padding: 0.5em;
+    font-size: 4em; }
