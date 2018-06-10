@@ -1,7 +1,7 @@
 .contact-container {
   margin-top: 3em;
   padding: 2em;
-  color: #9DBEBB;
+  color: #945bdc;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -10,6 +10,6 @@
     padding: 1em;
     font-size: 4em; }
   .contact-container a {
-    color: #9DBEBB; }
+    color: #945bdc; }
     .contact-container a:hover {
       color: #797B84; }

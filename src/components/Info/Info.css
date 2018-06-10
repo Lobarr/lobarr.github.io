@@ -4,15 +4,14 @@
   color: white;
   width: 95%; }
   .info-container .info {
-    background-color: #9DBEBB;
+    background-color: #945bdc;
     padding: 4em; }
     .info-container .info h1 {
       font-size: 3em;
       margin-bottom: 0; }
     .info-container .info h2 {
       margin-top: 0;
-      margin-bottom: 2em;
-      color: #5E747F; }
+      margin-bottom: 2em; }
     .info-container .info #resume {
       margin-top: 3em;
       display: flex;
@@ -25,4 +24,4 @@
         text-decoration: none; }
         .info-container .info #resume a:hover {
           background-color: white;
-          color: #5E747F; }
+          color: #945bdc; }
