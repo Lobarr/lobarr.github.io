@@ -11,7 +11,6 @@ class App extends Component {
     this.handleBurger = this.handleBurger.bind(this);
   }
   handleBurger(){
-    let toggle = document.querySelector("#nav-toggle");
     let menu = document.querySelector(".navbar-menu");
     menu.classList.toggle("is-active"); 
   }
