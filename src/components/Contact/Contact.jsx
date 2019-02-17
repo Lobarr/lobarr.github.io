@@ -10,12 +10,12 @@ export default class Contact extends Component {
                         <i className="fa fa-envelope "></i>
                     </span>
                 </a>
-                <a  className="" href="https://github.com/Lobarr" target="_blank" subject="From portfolio website" >
+                <a  className="" href="https://github.com/Lobarr" target="_blank" rel="noopener noreferrer" subject="From portfolio website" >
                     <span class="icon">
                         <i className="fab fa-github "></i>
                     </span>
                 </a>
-                <a  className="" href="https://www.linkedin.com/in/jesuloba-egunjobi-781183127/" target="_blank" subject="From portfolio website" >
+                <a  className="" href="https://www.linkedin.com/in/jesuloba-egunjobi-781183127/" target="_blank" rel="noopener noreferrer" subject="From portfolio website" >
                     <span class="icon">
                         <i className="fab fa-linkedin "></i>
                     </span>

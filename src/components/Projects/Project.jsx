@@ -14,7 +14,7 @@ class Project extends Component {
                     <div className="content">
                         {this.props.body}
                         <br/><br/>
-                        <a href={this.props.github}  target="_blank">
+                        <a href={this.props.github}  target="_blank" rel="noopener noreferrer">
                             Check it out
                         </a>
                     </div>

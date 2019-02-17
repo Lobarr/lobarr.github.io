@@ -12,9 +12,9 @@ export default class Info extends Component {
                 <div className="info">
                     <h1>Lobarr</h1>
                     <h2>Software Developer.</h2>
-                    <p id="info">I'm a curious individual who has passion for software development and skilled in writing software in Go, Node.js, Python, and C++. I'm a quick learner that loves exploring new technologies and craves challenges that improve me as a developer and increase my skill-set. I am currently pursuing a Bachelors of IT degree in Networking and IT Security at the University of Ontario Institute of Technology (UOIT) and would be graduating in 2020.</p>
+                    <p id="info">Detail oriented professional with experience in Fullstack Web Applications, Mobile Applications, Web Crawlers, REST APIs, Blockchain Applicationsand Machine Learning. Seekingto join a progressive tech company for the position of Software Developer Internwhere my technical and soft skills can be fully harnessed.</p>
                     <div id="resume">
-                        <a  className="" href="https://www.dropbox.com/s/tlpzfe711jchd1u/resume.pdf?dl=0" target="_blank">
+                        <a  className="" href="https://www.dropbox.com/s/tlpzfe711jchd1u/resume.pdf?dl=0" target="_blank" rel="noopener noreferrer">
                         <span class="icon">
                             <i className="fas fa-download"></i>
                         </span>
