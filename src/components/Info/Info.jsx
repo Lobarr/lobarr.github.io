@@ -12,7 +12,7 @@ export default class Info extends Component {
                 <div className="info">
                     <h1>Lobarr</h1>
                     <h2>Software Developer.</h2>
-                    <p id="info">Detail oriented professional with experience in Fullstack Web Applications, Mobile Applications, Web Crawlers, REST APIs, Blockchain Applicationsand Machine Learning. Seekingto join a progressive tech company for the position of Software Developer Internwhere my technical and soft skills can be fully harnessed.</p>
+                    <p id="info">Detail oriented professional with experience in Fullstack Web Applications, Web Crawlers, REST APIs, Blockchain Applications and Machine Learning.</p>
                     <div id="resume">
                         <a  className="" href="https://www.dropbox.com/s/tlpzfe711jchd1u/resume.pdf?dl=0" target="_blank" rel="noopener noreferrer">
                         <span class="icon">
