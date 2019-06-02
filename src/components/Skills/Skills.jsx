@@ -29,6 +29,7 @@ export default class Skills extends Component {
                 <i className="devicon-ubuntu-plain"></i>
                 <i className="devicon-typescript-plain"></i>
                 <i className="devicon-amazonwebservices-plain-wordmark"></i>
+                <i class="devicon-jeet-plain"></i>
             </div>
         )
     }
