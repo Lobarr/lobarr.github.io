@@ -28,21 +28,21 @@ export default class Projects extends Component {
                             github="https://github.com/Lobarr/switch-emulator"/>
                     </div>
                     <div className="project">
-                        <Project 
+                        <Project
                             title="Centrum" 
                             body="API that keeps track of active dispatcher nodes and used to connect to the Gizo
                             network" 
                             github="https://github.com/gizo-network/centrum"/>
                     </div>
                     <div className="project">
-                        <Project 
+                        <Project
                             title="Anko" 
                             body="An extension of the interpreted language to add scientific computing and ML packages for
                             use in Gizo" 
                             github="https://github.com/gizo-network/anko"/>
                     </div>
                     <div className="project">
-                        <Project 
+                        <Project
                             title="Hawkeye" 
                             body="A web application that allows users view rtsp and rtmp streams for IP cameras" 
                             github="https://github.com/Lobarr/hawkeye"/>
@@ -54,16 +54,22 @@ export default class Projects extends Component {
                             github="https://github.com/Lobarr/imap-client"/>
                     </div>
                     <div className="project">
-                        <Project 
+                        <Project
                             title="CryptoFP" 
                             body="Interactive command line based “Swiss Army cryptographic toolset for beginners”                        " 
                             github="https://github.com/Lobarr/cryptoFP"/>
                     </div>
                     <div className="project">
-                        <Project 
+                        <Project
                             title="Pollo" 
                             body="Video transcriber using Google Speech to Text API" 
                             github="https://github.com/Lobarr/pollo"/>
+                    </div>
+                    <div className="project">
+                        <Project
+                            title="Raven"
+                            body="API gateway for microservices"
+                            github="https://github.com/Lobarr/raven"/>
                     </div>
                 </div>
             </div>
